@@ -1,2 +1,2 @@
 # CovetCart
-CovetCart is a web extension that allows users to save items that they would like to buy from various websites, in one place.
+CovetCart is a web extension where users can save items that they would like to buy from various websites.
